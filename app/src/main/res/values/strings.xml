@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Cruddy Notes</string>
     <string name="action_settings">Settings</string>
+    <string name="editTitleText">Add Title</string>
+    <string name="editContentText">Add Content</string>
+    <string name="buttonAddText">ADD NOTE</string>
+    <string name="textViewTitleText">Title</string>
+    <string name="textViewContentText">Content</string>
+    <string name="title_activity_main2">Main2Activity</string>
 </resources>
